@@ -15,6 +15,7 @@ public class CharInput {
 		 input 
 */
 		char charaterInput = sc.nextLine().charAt(0);
+//		char charaterInput =sc.next().charAt(0);
 		System.out.println(number);
 		System.out.println("User input charater "+charaterInput);
 		
