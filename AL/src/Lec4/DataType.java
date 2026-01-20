@@ -10,7 +10,7 @@ public class DataType {
 		System.out.println(intNumber);
 		long longNUmber=1372822;
 		System.out.println(longNUmber);
-		float floatNumber = 23137.23;
+		float floatNumber = 23137.23f;
 		System.out.println(floatNumber);
 		double doubleNumber = 132.434d;
 		System.out.println(doubleNumber);
