@@ -19,5 +19,6 @@ public class OpratorsBitwiseContine {
 		System.out.println(num>>2);
 		int number=10;
 		System.out.println(~number);
+		System.out.println(~-10);
 	}
 }
