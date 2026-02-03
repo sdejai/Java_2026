@@ -7,10 +7,10 @@ public class SumOfDigit {
 		Scanner sc = new Scanner(System.in);
 		int number= sc.nextInt();
 		int sumOfDig=0;
-		while(number>0) {
+		while(number!=0) {
 			int digit=number%10;
 			number/=10;//number=number/10;
-			sumOfDig+=digit;
+			sumOfDig+=digit;//sumOfDig=sumOfDig+digit;
 		}
 		System.out.println(sumOfDig);
 	}
