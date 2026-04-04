@@ -1,4 +1,4 @@
-package LEc33;
+package Lec32;
 
 public class StringPrint {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Lec32;
+package LEc33;
 
 public class CheckPalindrom {
 	public static void main(String[] args) {
